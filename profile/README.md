@@ -34,20 +34,12 @@
 
 <table align="center">
 <tr>
-<td width="50%">
-
+<td width="100%">
 ## 🌐 About SOEPD
 
 The **Seismological Observation and Earthquake Prediction Division (SOEPD)** is one of the operational divisions of **DOST-PHIVOLCS**, responsible for earthquake monitoring, seismic data analysis, hazard assessment, and research activities throughout the Philippines.
 
 Through scientific excellence and technological innovation, SOEPD supports disaster risk reduction and contributes to a safer and more resilient nation.
-
-</td>
-
-<td width="50%">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-
 </td>
 </tr>
 </table>
